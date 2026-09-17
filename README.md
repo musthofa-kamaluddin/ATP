@@ -1,13 +1,4 @@
 # 🧩 ATP (Algorithms & Programming Techniques)
-
-<p align="left">
-  <a href="https://github.com/musthofa-kamaluddin/ATP/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
-  </a>
-  <img src="https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white" alt="Language" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-</p>
-
 Collection of ATP (Algorithm & Programming Technique) problems, modules, and solvers in C by `*me`.
 
 ---
