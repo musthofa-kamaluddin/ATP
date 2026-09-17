@@ -1,11 +1,11 @@
-#ATP (Algorithms & Programming Techniques)
+# ATP (Algorithms & Programming Techniques)
 Collection of ATP (Algorithm & Programming Technique) problems, modules, and solvers in C by `*me`.
 
-##Overview
+## Overview
 
 Repository ini berisi latihan soal, implementasi kode, dan solusi (*solvers*) untuk seluruh materi **Praktikum Algoritma dan Teknik Pemrograman (ATP)** berbasis bahasa C.
 
-##Curriculum & Modules
+## Curriculum & Modules
 
 - **Modul 0: Pengenalan Pemrograman**
   - Keyword, Identifier, Variabel, Konstanta, Tipe Data, I/O Dasar, & Operator
@@ -20,7 +20,7 @@ Repository ini berisi latihan soal, implementasi kode, dan solusi (*solvers*) un
 - **Modul 5: Algoritma Sorting dan Searching**
   - Bubble/Selection/Insertion Sort, Linear Search, & Binary Search
 
-##Environment & Tools
+## Environment & Tools
 
 * **Language:** C
 * **Compiler:** GCC
